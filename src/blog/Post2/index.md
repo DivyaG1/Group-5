@@ -1,0 +1,198 @@
+---
+title: "ANXIETY"
+date: "01-03-2022"
+author: "member2"
+description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+image: "blog2.jpg"
+---
+
+import Images from "../../components/Images/Images.js"
+
+<div className="row">
+
+  <div className="col-lg-4"><Image
+                  
+                  style={{
+                    height: "200px",
+                    margin: "0 auto",
+                    width: "200px",
+                    borderRadius: "50%",
+                  }}
+                  filename="../../images/swso.png"
+                  alt="1"
+                /></div>
+  <div className="col-lg-4"><Image
+                  
+                  style={{
+                    height: "200px",
+                    margin: "0 auto",
+                    width: "200px",
+                    borderRadius: "50%",
+                  }}
+                  filename="../../images/swso2.png"
+                  alt="1"
+                /></div>
+  <div className="col-lg-4"><img
+  
+                   style={{
+                    height: "200px",
+                    margin: "0 auto",
+                    width: "200px",
+                    borderRadius: "50%",
+                  }}
+                  filename="../../images/swso3.png"
+                  alt="1"
+                /></div>
+</div>
+
+- [Sexuality & Gender](https://www.youtube.com/watch?v=sCZiXfaa9ro)
+- [Closing Closets: The Upside of Disclosing Your Sexual Identity | Jeroen Mulder | TEDxTwenteU](https://www.youtube.com/watch?v=f55N3O4PPMc)
+- [Link text](https://www.youtube.com/watch?v=4Khn_z9FPmU)
+
+## An open letter:
+
+I know it feels like you can't control it, the overwhelming thoughts, feelings, and emotions that suffocate you and kill your
+present of all those small moments, moments of joy, happiness,
+relief, a pang of heartache, the comfort of your solitude, the
+sunrise and sunsets, the bloom of the flowers, the storm brewing
+over, everything that makes you feel human. But what if I tell you
+that you could save it, that you could savour your present.
+Because anxiety is nothing but the dizziness of freedom. Listen,
+life is a combination of happiness and pain. Pain is uncomfortable
+and is not something we usually welcome with open arms but it is
+inevitable but you know what is optional? It's suffering. We often
+suffer more from our imagined anxieties about a problem than the
+problem itself. And that is something we have to resolve. See,
+anxiety, on the whole, is not bad for you but too much of anything
+has never proved to be fruitful. Suppose you are in a jungle and
+you see a wolf, so what you would possibly do is get anxious and
+run in the opposite direction for your life, a little anxiety
+sometimes helps you finish your paper or assignments on time, it
+helps you meet the deadline. It pushes you forward in the right
+direction to meet your goals if you have programmed your brain in
+the right way. But many times, when we get anxious about things,
+they don't really pose threat to our safety or push us to achieve
+our set goals. Right? Because it's not just that we are thinking
+of the future, but instead we are trying to control it. So, you
+got to understand that it is not so much about controlling your
+thoughts, because that won't provide the solution you are seeking
+for. But to stand aside and watch them as they come and go and not
+be affected by it. Cause worrying is like carrying tomorrow's load
+with the strength we are given today; it is wanting to move into
+tomorrow ahead of time. But here's the deal it won't empty your
+future of any sorrows or pain or problems, all it would do is
+empty your today of all the possible things that could happen. So
+go easy on yourself. Know that it's okay, that you are strong to
+deal with what life throws at you. It's all about the perspective
+that gives you the strength to move forward through painful times,
+so broaden it. Next time, you are anxious focus on anything around
+you that is square, breathe in for 4 seconds, hold it in for 4
+seconds, breathe out for 4 seconds and then hold again. Repeat it
+till you calm down. Talk it out, instead of dwelling on it. Live
+in the moment. Live in the breath.
+
+## What is it?
+
+<p> Anxiety is your body’s natural response to stress. It’s a feeling of fear or apprehension about what’s to come. The first day of school, going to a job interview, or giving a speech may cause most people to feel fearful and nervous. But if your feelings of anxiety are extreme, last for longer than six months, and are interfering with your life, you may have an anxiety disorder. They are the most common form of emotional disorder and can affect anyone at any age. There are many types of anxiety disorders:
+<ul> • Panic Disorder: It causes panic attacks, which are sudden feelings of terror when there is no real danger. It may feel as if one is losing control. </ul>
+<ul> • Phobia: A phobia is a persistent, excessive, unrealistic fear of an object, person, animal, activity or situation. A person with a phobia either tries to avoid the thing that triggers the fear, or endures it with great anxiety and distress. Some phobias are very specific and limited.</ul>
+<ul> • Social Anxiety Disorder: For people with social anxiety disorder, everyday social interactions cause irrational anxiety, fear, self-consciousness and embarrassment. Symptoms may include excessive fear of situations in which one may be judged, worry about embarrassment or humiliation or concern about offending someone.</ul>
+<ul>• Obsessive Compulsive Disorder: This disorder features a pattern of unwanted thoughts and fears (obsessions) that lead you to do repetitive behaviours (compulsions). These obsessions and compulsions interfere with daily activities and cause significant distress </ul>
+<ul>• Separation Anxiety Disorder: This disorder is a condition in which a child becomes fearful and nervous when away from home or separated from a loved one- usually a parent or other caregiver- to whom the child is attached. </ul>
+<ul>
+                    • Illness Anxiety Disorder: It is sometimes called
+                    hypochondriasis or health anxiety, is worrying excessively
+                    that you are or may become seriously ill. You may have no
+                    physical symptoms.
+                  </ul>
+                  <ul>
+                    • Post-Traumatic Stress Disorder: It is a mental health
+                    condition that's triggered by a terrifying event — either
+                    experiencing it or witnessing it. Symptoms may include
+                    flashbacks, nightmares and severe anxiety, as well as
+                    uncontrollable thoughts about the event.
+                  </ul>
+                  <ul>
+                    • Agoraphobia: It is a type of anxiety disorder in which you
+                    fear and avoid places or situations that might cause you to
+                    panic and make you feel trapped, helpless or embarrassed.
+                    You fear an actual or anticipated situation, such as using
+                    public transportation, being in open or enclosed spaces,
+                    standing in line, or being in a crowd.
+                  </ul>
+                </p>
+                <p>
+                  Anxiety feels different for every other people ranging from
+                  butterflies in your stomach, rapid breathing, a racing heart
+                  to experiencing nightmares, panic attacks, trouble
+                  concentrating, difficulty falling asleep and painful thoughts
+                  or memories that you can’t control. You may have a general
+                  feeling of fear and worry, or you may fear a specific place or
+                  event. It is important that you know all the ways anxiety can
+                  present itself.
+                </p>
+                <p>
+                  Researchers are not exactly sure of on what brings anxiety
+                  disorder. Many factors play a role in this. Some of them could
+                  be:
+                  <ul>• Genetics: Anxiety disorder can run in families.</ul>
+                  <ul>
+                    • Brain chemistry: Some research suggests anxiety disorders
+                    may be linked to faulty circuits in the brain that control
+                    fear and emotions.
+                  </ul>
+                  <ul>
+                    • Substance Abuse: Their use often worsens the case of
+                    anxiety disorder.
+                  </ul>
+                  <ul>
+                    • Medical conditions: Some heart, lung, and thyroid
+                    conditions can cause symptoms similar to anxiety disorders
+                    or make anxiety symptoms worse.
+                  </ul>
+                  <ul>
+                    • Childhood sexual abuse: Often abuse like physical,
+                    emotional or sexual abuse during childhood is linked to
+                    anxiety disorder later in life.
+                  </ul>
+                  <ul>
+                    • Trauma: Living through a traumatic event increases the
+                    risk of PTSD which can cause panic attacks.
+                  </ul>
+                  <ul>
+                    • Low self-esteem: Negative perceptions about yourself also
+                    leads to social anxiety disorder.{" "}
+                  </ul>
+                </p>
+                <p>
+                  A good way to cope up with anxiety is to bring change in your
+                  lifestyle. Some of those changes could be:
+                  <ul>• Meditation</ul>
+                  <ul>• Journaling</ul>
+                  <ul>• Physical exercise </ul>
+                  <ul>• Eating healthy</ul>
+                  <ul>• Getting enough sleep</ul>
+                  <ul>• Always hydrating</ul>
+                  <ul>• Quit alcohol/ drug</ul>
+                  <ul>• Reduce caffeine intake</ul>
+                </p>
+                <p>
+                  Some foods like dark chocolate and chamomile tea can also help
+                  with your anxiety. Psychotherapy is also used to help with
+                  anxiety disorders. It is a collaborative process, where
+                  psychologists and patients work together to identify specific
+                  concerns and develop concrete skills and techniques for coping
+                  with anxiety. A form of psychotherapy also known as
+                  cognitive-behavioural therapy (CBT) is highly effective at
+                  treating anxiety disorders. Through CBT, psychologists help
+                  patients learn to identify and manage the factors that
+                  contribute to their anxiety. Anxiety disorders can be treated
+                  with medication, psychotherapy, or a combination of the two.
+                  Some people who have a mild anxiety disorder, or a fear of
+                  something they can easily avoid, decide to live with the
+                  condition and to not seek treatment. It’s important to
+                  understand that anxiety disorders can be treated, even in
+                  severe cases.
+                </p>
+
+# Live a happy healthy life!!!!
