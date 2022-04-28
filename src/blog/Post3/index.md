@@ -3,7 +3,7 @@ title: "GUILT "
 date: "02-03-2022"
 author: "member3"
 description: "Guilt is difficult to pin down, but we all feel it. You may feel guilty for a thought you’ve had or something you’ve done. You may also feel guilty that your thoughts and actions don’t coincide with your culture, your family, or your beliefs."
-image: "blog3.jpg"
+image: "bg.jpg"
 ---
 
 import Images from "../../components/Images/Images.js"
@@ -18,7 +18,7 @@ import Images from "../../components/Images/Images.js"
                     width: "200px",
                     borderRadius: "50%",
                   }}
-                  filename="../../images/swso.png"
+                  filename="../../images/guilt1.png"
                   alt="1"
                 /></div>
   <div className="col-lg-4"><Image
@@ -29,10 +29,10 @@ import Images from "../../components/Images/Images.js"
                     width: "200px",
                     borderRadius: "50%",
                   }}
-                  filename="../../images/swso2.png"
+                  filename="../../images/guilt2.png"
                   alt="1"
                 /></div>
-  <div className="col-lg-4"><img
+  <div className="col-lg-4"><Image
   
                    style={{
                     height: "200px",
@@ -40,11 +40,14 @@ import Images from "../../components/Images/Images.js"
                     width: "200px",
                     borderRadius: "50%",
                   }}
-                  filename="../../images/swso3.png"
+                  filename="../../images/guilt3.png"
                   alt="1"
                 /></div>
 </div>
-
+- [Listening to shame | Brené Brown](https://www.youtube.com/watch?v=psN1DORYYV0)
+- [The power of vulnerability | Brené Brown](https://www.youtube.com/watch?v=iCvmsMzlF7o)
+- [Alan Watts ~ No More Guilt...](https://www.youtube.com/watch?v=7O05HWp2Nys)
+  
 ## An open letter:
 
 It's perhaps the most painful emotion that you feel and it's the

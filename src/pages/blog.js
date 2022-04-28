@@ -34,7 +34,7 @@ const Blog = ({ data }) => {
         <div className="row justify-content-center py-5">
           {data.allMdx.edges.map((edge, i) => {
             return (
-              <div key={i} className="col-lg-4 col-md-6 col-sm-12">
+              <div key={i} className="col-lg-3 col-md-6 col-sm-12">
                 <Link to={`/blog${edge.node.fields.slug}`}>
                   <div className="card shadow mb-4">
                     <Image
@@ -44,7 +44,7 @@ const Blog = ({ data }) => {
                       alt={edge.node.frontmatter.image}
                     />
                     <div class="card-img-overlay">
-                      <h4 class="card-title text-shadow ">
+                      <h4 class="card-title " style={{color: "darkslategrey"}}>
                         {" "}
                         {edge.node.frontmatter.title}
                       </h4>

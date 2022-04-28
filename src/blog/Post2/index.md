@@ -3,7 +3,7 @@ title: "ANXIETY"
 date: "01-03-2022"
 author: "member2"
 description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
-image: "blog2.jpg"
+image: "bg.jpg"
 ---
 
 import Images from "../../components/Images/Images.js"
@@ -18,7 +18,7 @@ import Images from "../../components/Images/Images.js"
                     width: "200px",
                     borderRadius: "50%",
                   }}
-                  filename="../../images/swso.png"
+                  filename="../../images/anxiety1.png"
                   alt="1"
                 /></div>
   <div className="col-lg-4"><Image
@@ -29,10 +29,10 @@ import Images from "../../components/Images/Images.js"
                     width: "200px",
                     borderRadius: "50%",
                   }}
-                  filename="../../images/swso2.png"
+                  filename="../../images/anxiety2.png"
                   alt="1"
                 /></div>
-  <div className="col-lg-4"><img
+  <div className="col-lg-4"><Image
   
                    style={{
                     height: "200px",
@@ -40,7 +40,7 @@ import Images from "../../components/Images/Images.js"
                     width: "200px",
                     borderRadius: "50%",
                   }}
-                  filename="../../images/swso3.png"
+                  filename="../../images/anxiety3.png"
                   alt="1"
                 /></div>
 </div>

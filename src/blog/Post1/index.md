@@ -3,7 +3,7 @@ title: "STRUGGLING WITH SEXUAL ORIENTATION"
 date: "04-03-2022"
 author: "member1"
 description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
-image: "blog1.jpg"
+image: "bg.jpg"
 ---
 
 import Images from "../../components/Images/Images.js"
