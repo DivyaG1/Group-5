@@ -13,14 +13,14 @@ const Items = [
     path: "/ventBox",
   },
   {
-    name: "QUOTES",
+    name: "LIFE HAPPENS",
     image: "LH.png",
-    path: "/quotes",
+    path: "/blog",
   },
   {
-    name: "LIFE HAPPENS",
+    name: "WORDS TO REMEMBER",
     image: "WTR.png",
-    path: "/blog",
+    path: "/quotes",
   },
 ]
 
