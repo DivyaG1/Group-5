@@ -5,10 +5,10 @@ import Image from "../components/Images/Images"
 import { BrowserRouter as Router, Switch, Route, Link } from "gatsby"
 const Items = [
   {
-    image: "quote1.png",
+    image: "About1.png",
   },
   {
-    image: "quote2.png",
+    image: "About2.png",
   },
 ]
 
