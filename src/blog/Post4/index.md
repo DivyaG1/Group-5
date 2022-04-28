@@ -6,7 +6,7 @@ description: "Lorem Ipsum is simply dummy text of the printing and typesetting i
 image: "bg.jpg"
 ---
 
-import Images from "../../components/Images/images.js"
+import Images from "../../components/Images/Images.js"
 
 <div className="row">
 <div className="col-lg-4">

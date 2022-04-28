@@ -5,7 +5,7 @@ author: "member3"
 description: "Guilt is difficult to pin down, but we all feel it. You may feel guilty for a thought you’ve had or something you’ve done. You may also feel guilty that your thoughts and actions don’t coincide with your culture, your family, or your beliefs."
 image: "bg.jpg"
 ---
-import Images from "../../components/Images/images.js"
+import Images from "../../components/Images/Images.js"
 
 <div className="row">
 <div className="col-lg-4">

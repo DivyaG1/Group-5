@@ -8,7 +8,7 @@ image: "bg.jpg"
 
 
 
-import Images from "../../components/Images/images.js"
+import Images from "../../components/Images/Images.js"
 
 <div className="row">
 <div className="col-lg-4">
