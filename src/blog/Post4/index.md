@@ -6,43 +6,27 @@ description: "Lorem Ipsum is simply dummy text of the printing and typesetting i
 image: "bg.jpg"
 ---
 
-import Image from "../../components/Images/Images.js"
+import Images from "../../components/Images/images.js"
 
 <div className="row">
+<div className="col-lg-4">
+  <div className="card shadow mb-4">
+    <Images filename="jea1.png" style={{ height: "auto", width: "100%" }} />
+  </div>
+</div>
 
-  <div className="col-lg-4"><Image
-                  
-                  style={{
-                    height: "200px",
-                    margin: "0 auto",
-                    width: "200px",
-                    borderRadius: "50%",
-                  }}
-                  filename="../../images/jeal1.png"
-                  alt="1"
-                /></div>
-  <div className="col-lg-4"><Image
-                  
-                  style={{
-                    height: "200px",
-                    margin: "0 auto",
-                    width: "200px",
-                    borderRadius: "50%",
-                  }}
-                  filename="../../images/jeal2.png"
-                  alt="1"
-                /></div>
-  <div className="col-lg-4"><Image
-                  
-                  style={{
-                    height: "200px",
-                    margin: "0 auto",
-                    width: "200px",
-                    borderRadius: "50%",
-                  }}
-                  filename="../../images/jeal3.png"
-                  alt="1"
-                  /></div>
+  <div className="col-lg-4">
+  <div className="card shadow mb-4">
+  <Images filename="jea2.png" style={{height: "auto", width:"100%"}}/>
+  </div>
+  </div>
+ 
+  <div className="col-lg-4">
+  <div className="card shadow mb-4">
+  <Images filename="jea3.png" style={{height: "auto", width:"100%"}}/>
+  </div>
+  </div>
+  
 </div>
 
 ## An open letter:

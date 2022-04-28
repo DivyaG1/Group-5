@@ -5,45 +5,29 @@ author: "member3"
 description: "Guilt is difficult to pin down, but we all feel it. You may feel guilty for a thought you’ve had or something you’ve done. You may also feel guilty that your thoughts and actions don’t coincide with your culture, your family, or your beliefs."
 image: "bg.jpg"
 ---
-
-import Image from "../../components/Images/Images.js"
+import Images from "../../components/Images/images.js"
 
 <div className="row">
-
-  <div className="col-lg-4"><Image
-                  
-                  style={{
-                    height: "200px",
-                    margin: "0 auto",
-                    width: "200px",
-                    borderRadius: "50%",
-                  }}
-                  filename="../../images/guilt1.png"
-                  alt="1"
-                /></div>
-  <div className="col-lg-4"><Image
-                  
-                  style={{
-                    height: "200px",
-                    margin: "0 auto",
-                    width: "200px",
-                    borderRadius: "50%",
-                  }}
-                  filename="../../images/guilt2.png"
-                  alt="1"
-                /></div>
-  <div className="col-lg-4"><Image
-  
-                   style={{
-                    height: "200px",
-                    margin: "0 auto",
-                    width: "200px",
-                    borderRadius: "50%",
-                  }}
-                  filename="../../images/guilt3.png"
-                  alt="1"
-                /></div>
+<div className="col-lg-4">
+  <div className="card shadow mb-4">
+    <Images filename="guilt.png" style={{ height: "auto", width: "100%" }} />
+  </div>
 </div>
+
+  <div className="col-lg-4">
+  <div className="card shadow mb-4">
+  <Images filename="guilt1.png" style={{height: "auto", width:"100%"}}/>
+  </div>
+  </div>
+ 
+  <div className="col-lg-4">
+  <div className="card shadow mb-4">
+  <Images filename="guilt2.png" style={{height: "auto", width:"100%"}}/>
+  </div>
+  </div>
+  
+</div>
+
 - [Listening to shame | Brené Brown](https://www.youtube.com/watch?v=psN1DORYYV0)
 - [The power of vulnerability | Brené Brown](https://www.youtube.com/watch?v=iCvmsMzlF7o)
 - [Alan Watts ~ No More Guilt...](https://www.youtube.com/watch?v=7O05HWp2Nys)
