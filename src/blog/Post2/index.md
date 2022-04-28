@@ -13,19 +13,19 @@ import Images from "../../components/Images/Images.js"
 <div className="row">
 <div className="col-lg-4">
   <div className="card shadow mb-4">
-    <Images filename="Anxiety1.png" style={{ height: "auto", width: "100%" }} />
+    <Images filename="anxiety1.png" style={{ height: "auto", width: "100%" }} />
   </div>
 </div>
 
   <div className="col-lg-4">
   <div className="card shadow mb-4">
-  <Images filename="Anxiety2.png" style={{height: "auto", width:"100%"}}/>
+  <Images filename="anxiety2.png" style={{height: "auto", width:"100%"}}/>
   </div>
   </div>
  
   <div className="col-lg-4">
   <div className="card shadow mb-4">
-  <Images filename="Anxiety3.png" style={{height: "auto", width:"100%"}}/>
+  <Images filename="anxiety3.png" style={{height: "auto", width:"100%"}}/>
   </div>
   </div>
   

@@ -17,13 +17,13 @@ import Images from "../../components/Images/Images.js"
 
   <div className="col-lg-4">
   <div className="card shadow mb-4">
-  <Images filename="Swso2.png" style={{height: "auto", width:"100%"}}/>
+  <Images filename="swso2.png" style={{height: "auto", width:"100%"}}/>
   </div>
   </div>
  
   <div className="col-lg-4">
   <div className="card shadow mb-4">
-  <Images filename="Swso3.png" style={{height: "auto", width:"100%"}}/>
+  <Images filename="swso3.png" style={{height: "auto", width:"100%"}}/>
   </div>
   </div>
   
