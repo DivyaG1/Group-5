@@ -1,6 +1,6 @@
 import React from "react"
 import TaskManager from "../components/CRUD/TaskManager"
-import Layout from "../components/Layout/layout"
+import Layout from "../components/Layout/Layout"
 
 const VentBox = () => {
   return (
