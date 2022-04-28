@@ -6,7 +6,7 @@ description: "Guilt is difficult to pin down, but we all feel it. You may feel g
 image: "bg.jpg"
 ---
 
-import Images from "../../components/Images/Images.js"
+import Image from "../../components/Images/Images.js"
 
 <div className="row">
 

@@ -44,7 +44,7 @@ const Blog = ({ data }) => {
                       alt={edge.node.frontmatter.image}
                     />
                     <div class="card-img-overlay">
-                      <h4 class="card-title " style={{color: "darkslategrey"}}>
+                      <h4 class="card-title " style={{color: "slategrey"}}>
                         {" "}
                         {edge.node.frontmatter.title}
                       </h4>
