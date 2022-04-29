@@ -26,6 +26,7 @@ const Contact = () => {
                 name="contact"
                 onSubmit="submit"
                 >
+                  <input type="hidden" name="form-name" value="contact" />
                 <div class="form-group">
                   <label class="control-label col-sm-2" for="fname">
                     First Name:
