@@ -24,6 +24,7 @@ const Contact = () => {
                 netlify-honeypot="bot-field"
                 data-netlify="true"
                 name="contact"
+                onSubmit="submit"
                 >
                 <div class="form-group">
                   <label class="control-label col-sm-2" for="fname">
