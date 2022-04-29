@@ -29,9 +29,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
           <div className="col-lg col-md-12 col-sm-12">
             <div className="card card-body shadow mb-4">
               <h1 class="text-primary fw-bold">{mdx.frontmatter.title}</h1>
-              <p>
-                Written by: <strong>{mdx.frontmatter.author}</strong>
-              </p>
+              
               <p>
                 Posted on: <strong>{mdx.frontmatter.date}</strong>
               </p>
@@ -93,7 +91,6 @@ export const query = graphql`
       }
       frontmatter {
         title
-        author
         date
         image
       }
