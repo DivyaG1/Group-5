@@ -19,7 +19,12 @@ const Contact = () => {
               </div>
             </div>
             <div class="col-md-9">
-              <form name="contact" method="POST" data-netlify="true" onSubmit="submit">
+              <form method="POST"
+                role="presentation"
+                netlify-honeypot="bot-field"
+                data-netlify="true"
+                name="contact"
+                >
                 <div class="form-group">
                   <label class="control-label col-sm-2" for="fname">
                     First Name:
