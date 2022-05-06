@@ -39,40 +39,31 @@ const MP = () => {
                   <a href="callto:">101</a>
                 </td>
               </tr>
-              <tr>
-                <th scope="row">C.M. HELPLINE</th>
-                <td className="fw-bold ">
-                  <a href="callto:">181</a>
-                </td>
-              </tr>
+              
+                
               <tr>
                 <th scope="row">Ambulance</th>
                 <td className="fw-bold ">
                   <a href="callto:">108</a>,<a href="callto:">102</a>
                 </td>
               </tr>
+             
               <tr>
-                <th scope="row">Women Helpline Number</th>
+                <th scope="row">MyGov Whatsapp Helpdesk</th>
                 <td className="fw-bold ">
-                  <a href="callto:">109</a>, <a href="callto:">1091</a>
+                  <a href="callto:">9013151515</a>
                 </td>
               </tr>
               <tr>
-                <th scope="row">Child Helpline</th>
+                <th scope="row">Mental Health</th>
                 <td className="fw-bold ">
-                  <a href="callto:">1098</a>
+                  <a href="callto:">08046110007</a>
                 </td>
               </tr>
               <tr>
-                <th scope="row">We Care for You (Indore)</th>
+                <th scope="row">Senior Citizens</th>
                 <td className="fw-bold ">
-                  <a href="callto:">0731-2522111</a>
-                </td>
-              </tr>
-              <tr>
-                <th scope="row">We Care for You (Gwalior)</th>
-                <td className="fw-bold ">
-                  <a href="callto:">0751-2522100</a>
+                  <a href="callto:">14567</a>
                 </td>
               </tr>
               <tr>
@@ -82,45 +73,15 @@ const MP = () => {
                 </td>
               </tr>
               <tr>
-                <th scope="row">Indian Airlines Enquiry </th>
+                <th scope="row">Ayush Covid-19 Counselling</th>
                 <td className="fw-bold ">
-                  <a href="callto:">143</a>
+                  <a href="callto:">14443</a>
                 </td>
               </tr>
               <tr>
-                <th scope="row">Sarvate Bus Stand</th>
+                <th scope="row">Health Ministry</th>
                 <td className="fw-bold ">
-                  <a href="callto:">24656888</a>
-                </td>
-              </tr>
-              <tr>
-                <th scope="row">BLOOD BANK</th>
-                <td className="fw-bold ">
-                  <a href="callto:">1910</a>
-                </td>
-              </tr>
-              <tr>
-                <th scope="row">SNAKE PICKER</th>
-                <td className="fw-bold ">
-                  <a href="callto:">9179137698</a>
-                </td>
-              </tr>
-              <tr>
-                <th scope="row">SENIOR CITIZEN HELPLINE</th>
-                <td className="fw-bold ">
-                  <a href="callto:">0731-2510308</a>
-                </td>
-              </tr>
-              <tr>
-                <th scope="row">CITY MUNICIPAL CORPORATION ( M.P ONLY ) </th>
-                <td className="fw-bold ">
-                  <a href="callto:">0731-253 5555</a>
-                </td>
-              </tr>
-              <tr>
-                <th scope="row">PMJDY</th>
-                <td className="fw-bold ">
-                  <a href="callto:">1800-233-4035</a>
+                  <a href="callto:">1075</a>
                 </td>
               </tr>
             </tbody>

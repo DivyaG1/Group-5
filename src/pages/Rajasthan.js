@@ -30,7 +30,7 @@ const MP = () => {
               <tr>
                 <th scope="row">POLICE</th>
                 <td className="fw-bold ">
-                  <a href="callto:">112</a>
+                  <a href="callto:">100</a>,<a href="callto:">0141-2619725</a>
                 </td>
               </tr>
               <tr>
@@ -40,9 +40,12 @@ const MP = () => {
                 </td>
               </tr>
               <tr>
-                <th scope="row">C.M. HELPLINE</th>
+                <th scope="row">
+                  Department of Tourism (Government) M.I Road , Jaipur
+                </th>
                 <td className="fw-bold ">
-                  <a href="callto:">181</a>
+                  <a href="callto:">0141-5110598</a>,
+                  <a href="callto:">0141-5155100</a>
                 </td>
               </tr>
               <tr>
@@ -54,7 +57,7 @@ const MP = () => {
               <tr>
                 <th scope="row">Women Helpline Number</th>
                 <td className="fw-bold ">
-                  <a href="callto:">109</a>, <a href="callto:">1091</a>
+                  <a href="callto:">1090</a>, <a href="callto:">1091</a>
                 </td>
               </tr>
               <tr>
@@ -64,63 +67,67 @@ const MP = () => {
                 </td>
               </tr>
               <tr>
-                <th scope="row">We Care for You (Indore)</th>
+                <th scope="row">Gas Leakage </th>
                 <td className="fw-bold ">
-                  <a href="callto:">0731-2522111</a>
+                  <a href="callto:">1906</a>
                 </td>
               </tr>
               <tr>
-                <th scope="row">We Care for You (Gwalior)</th>
+                <th scope="row">Help for SC / ST</th>
                 <td className="fw-bold ">
-                  <a href="callto:">0751-2522100</a>
+                  <a href="callto:">18001806025</a>
                 </td>
               </tr>
               <tr>
-                <th scope="row">Railways Enquiry </th>
+                <th scope="row">SAMPARK (GREVIENCES REPORTING & REDRESSAL )</th>
                 <td className="fw-bold ">
-                  <a href="callto:">139</a>
+                  <a href="callto:">181</a>
                 </td>
               </tr>
               <tr>
-                <th scope="row">Indian Airlines Enquiry </th>
+                <th scope="row">Emergency Oxygen</th>
                 <td className="fw-bold ">
-                  <a href="callto:">143</a>
+                  <a href="callto:">0141-2721771</a>
                 </td>
               </tr>
               <tr>
-                <th scope="row">Sarvate Bus Stand</th>
+                <th scope="row">Apex Hospital</th>
                 <td className="fw-bold ">
-                  <a href="callto:">24656888</a>
+                  <a href="callto:">0141-2751871</a>,
+                  <a href="callto:">2751872</a>
                 </td>
               </tr>
               <tr>
                 <th scope="row">BLOOD BANK</th>
                 <td className="fw-bold ">
-                  <a href="callto:">1910</a>
+                  <a href="callto:">0141-2518234</a>
                 </td>
               </tr>
               <tr>
-                <th scope="row">SNAKE PICKER</th>
+                <th scope="row">
+                  Rajasthan State Road Transport Corporation( Jaipur)
+                </th>
                 <td className="fw-bold ">
-                  <a href="callto:">9179137698</a>
+                  <a href="callto:">0141-2373043</a>,
+                  <a href="callto:">91-9413385700</a>
                 </td>
               </tr>
               <tr>
-                <th scope="row">SENIOR CITIZEN HELPLINE</th>
+                <th scope="row">RAILWAYS ENQUIRY</th>
                 <td className="fw-bold ">
-                  <a href="callto:">0731-2510308</a>
+                  <a href="callto:">139</a>
                 </td>
               </tr>
               <tr>
-                <th scope="row">CITY MUNICIPAL CORPORATION ( M.P ONLY ) </th>
+                <th scope="row">INDIAN RAILWAYS SECURITY HELPLINE</th>
                 <td className="fw-bold ">
-                  <a href="callto:">0731-253 5555</a>
+                  <a href="callto:">182</a>
                 </td>
               </tr>
               <tr>
-                <th scope="row">PMJDY</th>
+                <th scope="row">RAJASTHAN WOMEN COMMISION</th>
                 <td className="fw-bold ">
-                  <a href="callto:">1800-233-4035</a>
+                  <a href="callto:">0141-2779001</a>
                 </td>
               </tr>
             </tbody>
