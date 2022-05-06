@@ -30,31 +30,31 @@ const TN = () => {
               <tr>
                 <th scope="row">POLICE</th>
                 <td className="fw-bold ">
-                  <a href="callto:">100</a>
+                  <a href="callto:100">100</a>
                 </td>
               </tr>
               <tr>
                 <th scope="row">FIRE STATION</th>
                 <td className="fw-bold ">
-                  <a href="callto:">101</a>
+                  <a href="callto:101">101</a>
                 </td>
               </tr>
               <tr>
                 <th scope="row">Hospital on Wheels</th>
                 <td className="fw-bold ">
-                  <a href="callto:">104</a>
+                  <a href="callto:104">104</a>
                 </td>
               </tr>
               <tr>
                 <th scope="row">Ambulance</th>
                 <td className="fw-bold ">
-                  <a href="callto:">102</a>
+                  <a href="callto:102">102</a>
                 </td>
               </tr>
               <tr>
                 <th scope="row">Women Helpline Number</th>
                 <td className="fw-bold ">
-                   <a href="callto:">1091</a>
+                   <a href="callto:1091">1091</a>
                 </td>
               </tr>
               <tr>

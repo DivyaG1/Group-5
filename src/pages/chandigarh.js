@@ -8,7 +8,7 @@ const Chandigarh = () => {
 
       <div className="container text-center py-5">
         <h1 class="py-5 border-bottom align-items-center fw-bold ">
-          Gujarat
+          CHANDIGARH
         </h1>
         <div
           className="row row-header justify-content-center"

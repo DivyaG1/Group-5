@@ -8,7 +8,7 @@ const DNH = () => {
 
       <div className="container text-center py-5">
         <h1 class="py-5 border-bottom align-items-center fw-bold ">
-          Gujarat
+          Dadra and Nagar Haveli
         </h1>
         <div
           className="row row-header justify-content-center"

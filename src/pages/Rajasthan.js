@@ -30,13 +30,13 @@ const MP = () => {
               <tr>
                 <th scope="row">POLICE</th>
                 <td className="fw-bold ">
-                  <a href="callto:">100</a>,<a href="callto:">0141-2619725</a>
+                  <a href="callto:100">100</a>,<a href="callto:01412619725">0141-2619725</a>
                 </td>
               </tr>
               <tr>
                 <th scope="row">FIRE STATION</th>
                 <td className="fw-bold ">
-                  <a href="callto:">101</a>
+                  <a href="callto:101">101</a>
                 </td>
               </tr>
               <tr>
@@ -44,8 +44,8 @@ const MP = () => {
                   Department of Tourism (Government) M.I Road , Jaipur
                 </th>
                 <td className="fw-bold ">
-                  <a href="callto:">0141-5110598</a>,
-                  <a href="callto:">0141-5155100</a>
+                  <a href="callto:0141-5110598">0141-5110598</a>,
+                  <a href="callto:0141-5155100">0141-5155100</a>
                 </td>
               </tr>
               <tr>

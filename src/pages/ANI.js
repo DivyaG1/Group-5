@@ -29,7 +29,7 @@ const ANI = () => {
               <tr>
                 <th scope="row">POLICE CONTROL ROOM</th>
                 <td className="fw-bold ">
-                  <a href="callto:">100</a>
+                  <a href="callto:100">100</a>
                 </td>
               </tr>
               <tr>
