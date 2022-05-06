@@ -167,13 +167,13 @@ const Help = () => {
                   <tr>
                     <th scope="row">21</th>
                     <td className="fw-bold ">
-                      <a href="/Raja">Rajasthan</a>
+                      <a href="/Rajasthan">Rajasthan</a>
                     </td>
                   </tr>
                   <tr>
                     <th scope="row">22</th>
                     <td className="fw-bold ">
-                      <a href="/Sik">Sikkim</a>
+                      <a href="/Sikkim">Sikkim</a>
                     </td>
                   </tr>
                   <tr>
