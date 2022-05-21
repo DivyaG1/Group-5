@@ -75,11 +75,11 @@ const Contact = () => {
                   </label>
                   <div class="col-sm-10">
                     <input
-                      type="comment"
+                    type="message"
+                      name="message"
                       class="form-control"
                       rows="5"
                       id="comment"
-                      name="comment"
                     />
                   </div>
                 </div>
