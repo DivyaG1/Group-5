@@ -74,13 +74,13 @@ const Contact = () => {
                     Comment:
                   </label>
                   <div class="col-sm-10">
-                    <input
+                    <textarea
                     type="message"
                       name="message"
                       class="form-control"
                       rows="5"
                       id="comment"
-                    />
+                    ></textarea>
                   </div>
                 </div>
                 <div class="form-group">
