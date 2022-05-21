@@ -37,7 +37,15 @@ const Footer = () => {
          
 
           <div className="col-4 offset-1">
-            <form>
+           
+            <form method="POST"
+                role="presentation"
+                netlify-honeypot="bot-field"
+                data-netlify="true"
+                name="contact"
+                onSubmit="submit"
+                >
+                  <input type="hidden" name="form-name" value="subscribe" />
               <h5 className="text-primary">Subscribe to our newsletter</h5>
               <p className="text-light">
                 Monthly digest of whats new and exciting from us.
